@@ -1,5 +1,5 @@
-#  Informe de gestión de incidentes que cumple con la norma ISO 27001
 <!-- hide -->
+#  Informe de gestión de incidentes que cumple con la norma ISO 27001
 
 > By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/4GeeksAcademy/deploying-wordpress-debian/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
@@ -7,17 +7,14 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 *These instructions are [available in english](https://github.com/breatheco-de/incident-report-management-exercise-project/blob/main/README.md)*
-<!-- endhide -->
-
-
-<!-- hide -->
-
 
 ### Antes de empezar...
 
 > ¡Te necesitamos! Estos ejercicios se crean y mantienen en colaboración con personas como tú. Si encuentras algún error o falta de ortografía, contribuye y/o repórtalo.
 
 <!-- endhide -->
+
+<onlyfor saas="true" withBanner="true">
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
@@ -28,6 +25,7 @@ Este ejercicio tiene como objetivo enseñar a los estudiantes cómo identificar 
 * VirtualBox instalado en tu computadora.
 * Una máquina virtual Debian instalada en VirtualBox. (usaremos la máquina previamente configurada en clases anteriores).
 
+</onlyfor>
 
 #### Beneficios de Usar una Máquina Virtual
 

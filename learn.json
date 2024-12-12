@@ -11,6 +11,7 @@
 	"preview": "https://github.com/breatheco-de//incident-report-management-exercise-project/blob/main/assets/preview-dvwa.jpg?raw=true",
 	"repository": "https://github.com/breatheco-de/incident-report-management-exercise-project",
 	"duration": 3,
+	"projectType": "project",
 	"difficulty": "intermediate",
 	"bugsLink": "https://github.com/learnpack/learnpack/issues/new",
 	"technologies": ["linux", "cybersecurity", "ciberseguridad", "sql", "sql-injection"],

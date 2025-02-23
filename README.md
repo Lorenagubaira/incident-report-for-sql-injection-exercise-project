@@ -14,8 +14,6 @@
 
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
-
 ## 🌱 How to start this project?
 
 This exercise aims to teach students how to identify and report an SQL injection vulnerability using the Damn Vulnerable Web Application (DVWA). The report should be made according to ISO 27001 standards for information security incident management.
@@ -24,8 +22,6 @@ This exercise aims to teach students how to identify and report an SQL injection
 
 - VirtualBox installed on your computer.
 - A Debian virtual machine installed in VirtualBox. (We will use the machine previously configured in earlier classes).
-
-</onlyfor>
 
 #### Benefits of Using a Virtual Machine
 

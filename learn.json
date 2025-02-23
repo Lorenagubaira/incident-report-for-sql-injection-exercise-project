@@ -5,8 +5,8 @@
 	},
 	"slug": "incident-report-management",
 	"description": {
-		"us": "Learn how to install DVWA on a virtual machine to practice and report SQL injection vulnerabilities according to ISO 27001 standards.",
-		"es": "Aprende a instalar DVWA en una máquina virtual para practicar y reportar vulnerabilidades de inyección SQL según las normas ISO 27001."
+		"us": "Learn how to set up DVWA on a virtual machine and practice identifying and reporting SQL injection vulnerabilities following ISO 27001 standards. Gain hands-on experience with virtual environments, configure a LAMP stack, and simulate real-world security incidents while creating a professional incident management report.",
+		"es": "Aprende a instalar DVWA en una máquina virtual para practicar la detección y el reporte de vulnerabilidades de inyección SQL siguiendo los estándares de ISO 27001. Configura un entorno seguro, ejecuta ataques de inyección SQL y documenta tus hallazgos en un informe estructurado. Adquiere experiencia práctica en la gestión de incidentes de ciberseguridad."
 	},
 	"preview": "https://github.com/breatheco-de//incident-report-management-exercise-project/blob/main/assets/preview-dvwa.jpg?raw=true",
 	"repository": "https://github.com/breatheco-de/incident-report-management-exercise-project",
@@ -19,6 +19,9 @@
 		"instructions": {
 			"en": "Please upload your incident-report.pdf file to your GitHub repository and provide the link to your repository here",
 			"es": "Por favor sube tu archivo incident-report.pdf a tu repositorio de GitHub y proporciona el enlace a tu repositorio aquí"
-		}
+		},
+		"telemetry": {
+	  "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=1857"
+	  }
 	}
 }

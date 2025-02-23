@@ -14,8 +14,6 @@
 
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
-
 ## 🌱 ¿Cómo empezar este proyecto?
 
 Este ejercicio tiene como objetivo enseñar a los estudiantes cómo identificar y reportar una vulnerabilidad de inyección SQL utilizando la aplicación web Damn Vulnerable Web Application (DVWA). El reporte se debe realizar de acuerdo a las normas ISO 27001 para la gestión de incidentes de seguridad de la información.
@@ -24,8 +22,6 @@ Este ejercicio tiene como objetivo enseñar a los estudiantes cómo identificar 
 
 * VirtualBox instalado en tu computadora.
 * Una máquina virtual Debian instalada en VirtualBox. (usaremos la máquina previamente configurada en clases anteriores).
-
-</onlyfor>
 
 #### Beneficios de Usar una Máquina Virtual
 
